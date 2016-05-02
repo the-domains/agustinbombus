@@ -1,0 +1,28 @@
+name: agustinbombus
+favicon: null
+layout_spectrum: 0.38502373406663537
+typography_spectrum: 0.8253593861591071
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.12855897028930485
+  lightness: 0.07908642874099314
+  saturation: 0.9614266760181636
+  rhythmicContrast: 0.528592670802027
+purpose: []
